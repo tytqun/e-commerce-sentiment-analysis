@@ -1,0 +1,7 @@
+sentiment_scope,ngram,keywords
+positive,unigram,"[('good', 3540), ('great', 2286), ('well', 1154), ('excellent', 869), ('amazing', 843), ('easy', 841), ('far', 781), ('clear', 777), ('learning', 774), ('best', 609), ('understand', 601), ('instructor', 542), ('practical', 513), ('lot', 478), ('like', 476)]"
+positive,bigram,"[('easy understand', 334), ('easy follow', 243), ('well structured', 226), ('highly recommend', 191), ('far good', 169), ('data science', 159), ('one best', 152), ('real world', 142), ('well explained', 142), ('good match', 128)]"
+negative,unigram,"[('time', 56), ('like', 56), ('hard', 40), ('lot', 39), ('short', 36), ('waste', 32), ('bad', 30), ('way', 30), ('other', 30), ('code', 29), ('after', 28), ('complex', 27), ('problem', 27), ('information', 26), ('understand', 26)]"
+negative,bigram,"[('waste time', 16), ('waste money', 10), ('lot time', 10), ('hard understand', 8), ('feel like', 7), ('other courses', 7), ('data science', 7), ('hard follow', 6), ('follow along', 6), ('difficult follow', 6)]"
+neutral,unigram,"[('nice', 379), ('like', 300), ('learning', 238), ('yes', 230), ('learn', 207), ('lot', 203), ('far', 197), ('chatgpt', 143), ('way', 139), ('new', 135), ('knowledge', 133), ('thank', 132), (""i'm"", 131), ('time', 130), ('instructor', 119)]"
+neutral,bigram,"[('data science', 46), ('machine learning', 41), ('looking forward', 39), ('chat gpt', 39), ('feel like', 28), ('learned lot', 27), ('real world', 27), ('product manager', 25), ('product management', 24), ('till now', 23)]"
